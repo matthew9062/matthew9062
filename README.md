@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Matthew (@matthew9062) 👋
 
-<!--
-**matthew9062/matthew9062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Seattle. Currently building backend systems and internal tooling at Tech Labs.
 
-Here are some ideas to get you started:
+Most days I write Go or Python, design REST APIs, and optimize slow database queries. Currently digging deeper into distributed caching patterns and internal metrics pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I work with
+- **Languages:** Go, Python, SQL, Bash
+- **Datastores & Infra:** PostgreSQL, Redis, Docker, GitHub Actions
+- **Frameworks:** FastAPI, Chi, Gin
+
+#### Currently tinkering with
+- Event-driven patterns using Redis streams
+- Zero-downtime DB migrations
+
+#### Reach out
+- LinkedIn: linkedin.com/in/matthew9062
+- Email: matthew.techlabs@gmail.com
